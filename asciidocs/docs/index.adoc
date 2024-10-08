@@ -4,3 +4,13 @@ ifndef::imagesdir[:imagesdir: images]
 image::img.png[]
 === Hallo Leute
 ==== Willkommen zu diesem Github Repository oder so idk
+
+* SEW
+* ITP
+* & Vieles mehr...
+
+=== Großer Pluspunkt:
+
+image::animal-pet-cute-kitten-45201.jpg[]
+DIESE KATZE
+
